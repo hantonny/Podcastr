@@ -60,3 +60,4 @@ h2 {
 button {
     cursor: pointer;
 }
+@media (min-width: 1440px) { .latestEpisodes { ul  { grid-template-columns: repeat(2, 1fr) } } }
